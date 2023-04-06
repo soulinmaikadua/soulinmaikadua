@@ -6,6 +6,7 @@ A full stack developer
 
 #### May 2022 - Now
 - Frontend developer at Computer Science Lab (CSL)
+
   As a frontend developer we just only VueJS/NuxtJS
 #### August 2021 - April 2022
 - Full stack developer at Lailaolab
