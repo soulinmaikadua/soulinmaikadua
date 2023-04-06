@@ -12,3 +12,11 @@ A full stack developer
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Work Experiences
+
+#### May 2022 - Now
+- Frontend developer at Computer Science Lab (CSL)
+
+### August 2021 - April 2022
+- Full stack developer at Lailaolab
