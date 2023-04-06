@@ -7,11 +7,15 @@ A full stack developer
 #### May 2022 - Now
 - Frontend developer at Computer Science Lab (CSL)
 
-  As a frontend developer we just only VueJS/NuxtJS
+  As a frontend developer we use VueJS/NuxtJS and RestAPI
 #### August 2021 - April 2022
 - Full stack developer at Lailaolab
+
+  As a full stack developer at LLL, I used serveral tech stack such as NodeJS, ReactJS/React Native, Flutter, GraphQL, RestAPI
 #### September 2019 - August 2021
-- Party-time at Lailaolab
+- Part-time position at Lailaolab
+
+  As a part-time position, I had learn alot from the team.
 
 ## Skill
 - Programming skill: Java, Dart, PHP, JavaScript, HTML, CSS...
