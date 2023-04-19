@@ -34,6 +34,6 @@ A full stack developer
 - [Flags Quiz](https://fb.gg/play/flags_quiz)
 
 ### Games on Google Play Store
-- [Card](https://play.google.com/store/apps/details?id=com.sou.dev3.cards)
-- [Math 24](https://play.google.com/store/apps/details?id=com.beyou.math24)
-- [Emoji](https://play.google.com/store/apps/details?id=com.beyou.emoji)
+- [Cards](https://play.google.com/store/apps/details?id=com.sou.dev3.cards)
+- [Math 24 - Math challenge](https://play.google.com/store/apps/details?id=com.beyou.math24)
+- [Emoji - Memory game](https://play.google.com/store/apps/details?id=com.beyou.emoji)
