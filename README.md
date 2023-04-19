@@ -27,3 +27,6 @@ A full stack developer
 
 ## Education
 - September 2017 - August 2021: Becholor of Web development at National University Of Laos
+
+## Facebook Games
+- [Flags Quiz](https://fb.gg/play/flags_quiz)
