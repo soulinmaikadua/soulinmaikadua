@@ -28,10 +28,12 @@ A full stack developer
 ## Education
 - September 2017 - August 2021: Becholor of Web development at National University Of Laos
 
-## Games on Facebook
+## Projects
+
+### Games on Facebook
 - [Flags Quiz](https://fb.gg/play/flags_quiz)
 
-## Games on Google Play Store
+### Games on Google Play Store
 - [Card](https://play.google.com/store/apps/details?id=com.sou.dev3.cards)
 - [Math 24](https://play.google.com/store/apps/details?id=com.beyou.math24)
 - [Emoji](https://play.google.com/store/apps/details?id=com.beyou.emoji)
