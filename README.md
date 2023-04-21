@@ -5,12 +5,12 @@ A full stack developer
 ## Work Experiences
 
 #### May 2022 - Now
-- Frontend developer at [Computer Science Lab (CSL)](https://techcsl.com){:target="\_blank" rel="noopener"}
+- Frontend developer at [Computer Science Lab (CSL)](https://techcsl.com)
 
   As a frontend developer at CSL, I use VueJS/NuxtJS with RestAPI
   
 #### August 2021 - April 2022
-- Full stack developer at [Lailaolab](https://lailaolab.com){:target="\_blank" rel="noopener"}
+- Full stack developer at [Lailaolab](https://lailaolab.com)
 
   As a full stack developer at LLL, I used serveral tech stack such as NodeJS, ReactJS/React Native, Flutter, GraphQL, RestAPI, MongoDB.
   
