@@ -30,6 +30,8 @@ A full stack developer
 - September 2017 - August 2021: Becholor of Web development at National University Of Laos
 
 ## Projects
+- [BeYou Gaming](https://beyougaming.com)
+- [Simple Portfolio](https://soulinmaikadua.github.io)
 
 ### Games on Facebook
 - [Flags Quiz](https://fb.gg/play/flags_quiz)
