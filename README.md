@@ -24,7 +24,7 @@ A full stack developer
 - Framework skill: Flutter, ReactJS/React Native, VueJS/NuxtJS...
 - API skill: Rest API, GraphQL...
 - Database skill: MySQL, SQL Server, Firebase, MongoDB...
-- Tool: GitHub, GitLab, Git, AWS...
+- Tools: GitHub, GitLab, Git, AWS...
 
 ## Education
 - September 2017 - August 2021: Becholor of Web development at National University Of Laos
@@ -41,6 +41,9 @@ A full stack developer
 - [Math 24 - Math challenge](https://play.google.com/store/apps/details?id=com.beyou.math24)
 - [Emoji - Memory game](https://play.google.com/store/apps/details?id=com.beyou.emoji)
 - [World Flags](https://play.google.com/store/apps/details?id=com.beyou.worldflags)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=soulinmaikadua)](https://git.io/streak-stats)
 
 
 
