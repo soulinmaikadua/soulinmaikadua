@@ -43,9 +43,11 @@ A full stack developer
 - [World Flags](https://play.google.com/store/apps/details?id=com.beyou.worldflags)
 
 Personal account
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=soulinmaikadua)](https://git.io/streak-stats)
 
 Office account
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=soulincsl)](https://git.io/streak-stats)
 
 
