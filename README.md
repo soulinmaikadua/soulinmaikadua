@@ -53,4 +53,6 @@ Office account
 ![Soulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulinmaikadua&show_icons=true&theme=transparent)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulinmaikadua&hide_progress=true)
+
 
