@@ -50,7 +50,7 @@ Office account
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=soulincsl)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Soulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulinmaikadua&show_icons=true&theme=transparent)
 
 
 
