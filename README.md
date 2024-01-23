@@ -27,7 +27,9 @@ A full stack developer
 - Tools: GitHub, GitLab, Git, AWS...
 
 ## Education
-- September 2017 - August 2021: Becholor of Web development at National University Of Laos
+September 2017 - August 2021
+#### Becholor of Web development
+National University Of Laos, Laos.
 
 ## Projects
 - [BeYou Gaming](https://beyougaming.com)
