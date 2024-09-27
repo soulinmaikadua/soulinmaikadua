@@ -39,15 +39,6 @@ National University Of Laos, Laos.
 - [BeYou Gaming](https://beyougaming.com)
 - [Simple Portfolio](https://soulinmaikadua.github.io)
 
-### Games on Facebook
-- [Flags Quiz](https://fb.gg/play/flags_quiz)
-
-### Games on Google Play Store
-- [Cards](https://play.google.com/store/apps/details?id=com.sou.dev3.cards)
-- [Math 24 - Math challenge](https://play.google.com/store/apps/details?id=com.beyou.math24)
-- [Emoji - Memory game](https://play.google.com/store/apps/details?id=com.beyou.emoji)
-- [World Flags](https://play.google.com/store/apps/details?id=com.beyou.worldflags)
-
 Personal account
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=soulinmaikadua)](https://git.io/streak-stats)
