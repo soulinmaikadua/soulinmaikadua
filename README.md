@@ -9,9 +9,9 @@ A full stack developer
 ## Work Experiences
 
 #### May 2022 - Now
-- Frontend developer at [Computer Science Lab (CSL)](https://techcsl.com)
+- Freelance
 
-  As a frontend developer at CSL, I use VueJS/NuxtJS with RestAPI
+  As a freelance developer, I have serval project with my friends
   
 #### August 2021 - April 2022
 - Full stack developer at [Lailaolab](https://lailaolab.com)
@@ -47,13 +47,6 @@ Personal account
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulinmaikadua&layout=compact)
 
-Office account
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=soulincsl)](https://git.io/streak-stats)
-
-![Soulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulincsl&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulincsl&layout=compact)
 
 
 
