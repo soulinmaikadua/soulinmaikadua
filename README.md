@@ -11,7 +11,7 @@ A full stack developer
 #### May 2022 - Now
 - Freelance
 
-  As a freelance developer, I have serval project with my friends
+  As a freelance developer, I have serveral project with my friends
   
 #### August 2021 - April 2022
 - Full stack developer at [Lailaolab](https://lailaolab.com)
